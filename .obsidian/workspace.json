@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c93a366c97826aa0",
+        "id": "35344ab0cae5ea72",
         "type": "tabs",
         "children": [
           {
-            "id": "bdd52c0cc9539846",
+            "id": "0ba388d525799129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Уник/ТСАУ/Транзисторы.md",
+                "file": "Golang/OPENAPI/Кодогенерация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Транзисторы"
+              "title": "Кодогенерация"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.51103591918945
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Уник/ТСАУ/Транзисторы.md"
+                "file": "Golang/OPENAPI/Кодогенерация.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Транзисторы"
+              "title": "Структура Кодогенерация"
             }
           },
           {
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,32 +173,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6adcbc67136b6106",
+  "active": "0ba388d525799129",
   "lastOpenFiles": [
-    "MetaData/Pasted image 20241128163210.png",
-    "Уник/ТСАУ/Реле.md",
-    "Уник/ТСАУ/Транзисторы.md",
-    "MetaData/Полевые.md",
-    "Уник/ТСАУ/Ассинхроный двигатель.md",
+    "Golang/Подготовка к собесам/Стек и Куча.md",
+    "Golang/OPENAPI/Кодогенерация.md",
     "Golang/Links for teach.md",
+    "Golang/Проект/Логика первого задания.md",
+    "Golang/Проект/Project.md",
+    "Golang/OPENAPI",
+    "Уник/ТСАУ/JK триггер.md",
+    "Уник/ТСАУ/Транзисторы.md",
+    "Уник/ТСАУ/Ассинхроный двигатель.md",
+    "Уник/ТСАУ/Реле.md",
+    "Английский",
+    "Уник/Баранов/Матрицы G и H.md",
+    "Golang/Подготовка к собесам/SOLID в GO.md",
+    "Golang/Подготовка к собесам/Сети.md",
+    "Golang/Подготовка к собесам/Каналы.md",
+    "Golang/Подготовка к собесам/Слайсы.md",
+    "Golang/Подготовка к собесам/1.Rest API.md",
+    "MetaData/Pasted image 20241128163210.png",
+    "MetaData/Полевые.md",
     "Уник/Уваров/Без названия.md",
     "Уник/Уваров",
     "Уник/ТСАУ",
     "YouTube",
-    "Уник/Баранов/Матрицы G и H.md",
     "Golang",
-    "Golang/Подготовка к собесам/Rest API.md",
     "Уник/Баранов",
     "Уник",
     "MetaData/REST.pdf",
     "MetaData/Pasted image 20241125121509.png",
-    "Golang/Подготовка к собесам/Каналы.md",
-    "Golang/Подготовка к собесам/Слайсы.md",
-    "Golang/Проект/Логика первого задания.md",
     "README.md",
     "Golang/Проект",
-    "Golang/Подготовка к собесам",
-    "Добро пожаловать.md",
-    "MetaData"
+    "Добро пожаловать.md"
   ]
 }
