@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35344ab0cae5ea72",
+        "id": "3110c41073b00ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba388d525799129",
+            "id": "52275e35a2ad034c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/OPENAPI/Кодогенерация.md",
+                "file": "MetaData/Кодогенерация.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#собеседование",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.51103591918945
+    "width": 239.51103591918945
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/OPENAPI/Кодогенерация.md"
+                "file": "MetaData/Кодогенерация.md"
               },
               "icon": "lucide-list",
               "title": "Структура Кодогенерация"
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,13 +173,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ba388d525799129",
+  "active": "52275e35a2ad034c",
   "lastOpenFiles": [
-    "Golang/Подготовка к собесам/Стек и Куча.md",
-    "Golang/OPENAPI/Кодогенерация.md",
+    "MetaData/База для работы.md",
+    "Golang/Golang.md",
+    "MetaData/БД.md",
+    "MetaData/База Данных.md",
+    "MetaData/Git.md",
+    "README.md",
+    "Golang/Подготовка к собесам.md",
+    "MetaData/Кодогенерация.md",
+    "Golang/Подготовка к собесам/1.Rest API.md",
     "Golang/Links for teach.md",
-    "Golang/Проект/Логика первого задания.md",
     "Golang/Проект/Project.md",
+    "Golang/Проект/Логика первого задания.md",
+    "MetaData/Команды для Linux от Кости.md",
+    "MetaData/REST.pdf",
+    "Golang/Подготовка к собесам/SOLID в GO.md",
+    "Golang/Подготовка к собесам/Стек и Куча.md",
     "Golang/OPENAPI",
     "Уник/ТСАУ/JK триггер.md",
     "Уник/ТСАУ/Транзисторы.md",
@@ -187,11 +198,9 @@
     "Уник/ТСАУ/Реле.md",
     "Английский",
     "Уник/Баранов/Матрицы G и H.md",
-    "Golang/Подготовка к собесам/SOLID в GO.md",
     "Golang/Подготовка к собесам/Сети.md",
     "Golang/Подготовка к собесам/Каналы.md",
     "Golang/Подготовка к собесам/Слайсы.md",
-    "Golang/Подготовка к собесам/1.Rest API.md",
     "MetaData/Pasted image 20241128163210.png",
     "MetaData/Полевые.md",
     "Уник/Уваров/Без названия.md",
@@ -201,9 +210,7 @@
     "Golang",
     "Уник/Баранов",
     "Уник",
-    "MetaData/REST.pdf",
     "MetaData/Pasted image 20241125121509.png",
-    "README.md",
     "Golang/Проект",
     "Добро пожаловать.md"
   ]
