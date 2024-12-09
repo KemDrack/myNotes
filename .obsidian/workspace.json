@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GORM.md",
+                "file": "MetaData/context.Context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GORM"
+              "title": "context.Context"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GORM.md"
+                "file": "MetaData/context.Context.md"
               },
               "icon": "lucide-list",
-              "title": "Структура GORM"
+              "title": "Структура context.Context"
             }
           },
           {
@@ -173,14 +173,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52275e35a2ad034c",
+  "active": "6adcbc67136b6106",
   "lastOpenFiles": [
-    "MetaData/Работа с БД в Go.md",
-    "GORM.md",
     "MetaData/База для работы.md",
+    "MetaData/context.Context.md",
     "Golang/Golang.md",
+    "MetaData/GORM.md",
+    "MetaData/openapi.yaml.md",
     "MetaData/Кодогенерация.md",
     "MetaData/БД.md",
+    "MetaData/Работа с БД в Go.md",
     "MetaData/База Данных.md",
     "MetaData/Git.md",
     "README.md",
@@ -202,9 +204,7 @@
     "Уник/Баранов/Матрицы G и H.md",
     "Golang/Подготовка к собесам/Сети.md",
     "Golang/Подготовка к собесам/Каналы.md",
-    "Golang/Подготовка к собесам/Слайсы.md",
     "MetaData/Pasted image 20241128163210.png",
-    "MetaData/Полевые.md",
     "Уник/Уваров",
     "Уник/ТСАУ",
     "YouTube",
