@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bbafd49900ce711",
+            "id": "469f966b31bf4617",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,49 @@
               "icon": "lucide-file",
               "title": "БАДЫ"
             }
+          },
+          {
+            "id": "13b0e4bb9c0bc9b6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/Something.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Something"
+            }
+          },
+          {
+            "id": "eda93e598d40fadf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "683bd8946f8ba97f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/Golang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golang"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,20 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Здоровье/БАДЫ.md"
+                "file": "Golang/Something.md"
               },
               "icon": "lucide-list",
-              "title": "Структура БАДЫ"
-            }
-          },
-          {
-            "id": "75f340732d011152",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Структура Something"
             }
           },
           {
@@ -161,8 +192,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -174,9 +205,39 @@
               "icon": "SpacedRepIcon",
               "title": "Очередь заметок на повторение"
             }
+          },
+          {
+            "id": "61ee9bdefbcb2e98",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "706c1af8f6eaf8bc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          },
+          {
+            "id": "5a533dae1afe66c7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -195,21 +256,24 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "75f340732d011152",
+  "active": "b019672c8a6e6660",
   "lastOpenFiles": [
-    "Здоровье/БАДЫ.md",
-    "Указатели.md",
-    "Здоровье",
+    "Golang/Ideas.md",
     "Golang/Golang.md",
-    "Уник/Зольникова/Зачет.md",
-    "MetaData/context.Context.md",
+    "Golang/Something.md",
+    "Решение различных проблем.md",
+    "Здоровье/БАДЫ.md",
+    "Golang/Подготовка к собесам.md",
+    "MetaData/БД.md",
     "MetaData/Работа с БД в Go.md",
     "MetaData/Кодогенерация.md",
+    "Golang/Подготовка к собесам/1.Rest API.md",
+    "Указатели.md",
+    "Здоровье",
+    "Уник/Зольникова/Зачет.md",
+    "MetaData/context.Context.md",
     "MetaData/База для работы.md",
-    "Golang/Подготовка к собесам.md",
-    "Golang/Ideas.md",
     "MetaData/Git.md",
-    "MetaData/БД.md",
     "MetaData/Реляционные.md",
     "MetaData/внешних ключей.md",
     "ru_keys.webp",
@@ -224,9 +288,6 @@
     "Уник/ТСАУ/Ассинхроный двигатель.md",
     "Уник/Баранов/Матрицы G и H.md",
     "MetaData/GORM.md",
-    "MetaData/Полевые.md",
-    "MetaData/openapi.yaml.md",
-    "MetaData/База Данных.md",
     "MetaData/REST.pdf",
     "Golang/OPENAPI",
     "Английский",
