@@ -1,5 +1,6 @@
 {
   "textFontFamily": "JetBrains Mono",
   "cssTheme": "",
-  "interfaceFontFamily": "Bodoni 72,Inter,JetBrains Mono"
+  "interfaceFontFamily": "Bodoni 72,Inter,JetBrains Mono",
+  "baseFontSize": 17
 }
