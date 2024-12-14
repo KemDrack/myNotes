@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "469f966b31bf4617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Здоровье/БАДЫ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "БАДЫ"
-            }
-          },
-          {
             "id": "13b0e4bb9c0bc9b6",
             "type": "leaf",
             "pinned": true,
@@ -36,8 +22,51 @@
               "icon": "lucide-file",
               "title": "Something"
             }
+          },
+          {
+            "id": "f6ab92e970112f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/Проект/Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project"
+            }
+          },
+          {
+            "id": "a05c903a21de0f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Решение различных проблем.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Решение различных проблем"
+            }
+          },
+          {
+            "id": "2e37d4f05d7ab179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Здоровье/Life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Life"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Здоровье/БАДЫ.md"
+                "file": "Здоровье/Life.md"
               },
               "icon": "lucide-list",
-              "title": "Структура БАДЫ"
+              "title": "Структура Life"
             }
           },
           {
@@ -167,8 +196,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -231,9 +260,23 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "469f966b31bf4617",
+  "active": "2e37d4f05d7ab179",
   "lastOpenFiles": [
+    "Здоровье/БАДЫ.md",
+    "Решение различных проблем.md",
+    "Здоровье/Life.md",
+    "MetaData/Указатели.md",
+    "MetaData/JWT и Refresh токены.md",
+    "README.md",
+    "MetaData/ru_keys.webp",
     "Golang/Something.md",
+    "Golang/Проект/Project.md",
+    "Golang/Подготовка к собесам.md",
+    "Golang/Golang.md",
+    "Golang/Проект/Логика первого задания.md",
+    "Golang/Ideas.md",
+    "Golang/Links for teach.md",
+    "MetaData/context.Context.md",
     "MetaData/Key-value.md",
     "MetaData/openapi.yaml.md",
     "MetaData/Полевые.md",
@@ -245,24 +288,10 @@
     "MetaData/База для работы.md",
     "Уник/Баранов/Something.md",
     "Уник/Баранов/Матрицы G и H.md",
-    "Здоровье/БАДЫ.md",
-    "Golang/Ideas.md",
-    "Golang/Golang.md",
-    "Решение различных проблем.md",
-    "Golang/Подготовка к собесам.md",
     "MetaData/Работа с БД в Go.md",
-    "Golang/Подготовка к собесам/1.Rest API.md",
-    "Указатели.md",
     "Здоровье",
-    "Уник/Зольникова/Зачет.md",
-    "MetaData/context.Context.md",
-    "MetaData/Git.md",
-    "MetaData/Реляционные.md",
-    "ru_keys.webp",
     "MetaData/ru_relation_dbms.webp",
     "Уник/Зольникова",
-    "Уник/ТСАУ/JK триггер.md",
-    "Уник/ТСАУ/Транзисторы.md",
     "MetaData/REST.pdf",
     "Golang/OPENAPI",
     "Английский",

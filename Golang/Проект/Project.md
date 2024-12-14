@@ -25,3 +25,42 @@
 2. Создаем новую миграцию в проекте, чтобы мои данные где то хранились(create_legal_entitites)
 3. Создаем папку olegalentities в ../web и обновляем makefile, чтобы openapi знал куда сгенерировать код 
        `oapi-codegen -config openapi/.openapi  -include-tags legalentities -package olegalentities openapi/openapi.yaml > ./internal/web/olegalentities/api.gen.go`
+
+
+#### Структуры domain и oapi в проекте
+
+
+oapi BankAccountDTO
+
+BankAccountDTO:  
+  type: object  
+  required:  
+    - uuid  
+    - legalentityUUID  
+    - bic  
+    - bank  
+    - address  
+    - correspondent  
+    - settlement  
+    - currency  
+    - comment  
+  properties:  
+    uuid:  
+      type: string  
+    legalentityUUID:  
+      type: string  
+    bic:  
+      type: string  
+    bank:  
+      type: string  
+    address:  
+      type: string  
+    correspondent:  
+      type: string  
+    settlement:  
+      type: string  
+    currency:  
+      type: string  
+    comment:  
+      type: string
+
