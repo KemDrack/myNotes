@@ -5,8 +5,16 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIcons": [
+      "LiPlaneLanding",
+      "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "🌏",
+      "LiNetwork",
+      "LiUniversity",
+      "LiAudioLines",
+      "LiHeart"
+    ],
+    "recentlyUsedIconsSize": 7,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -25,6 +33,11 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
-  }
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Здоровье": "LiAudioLines",
+  "Уник": "LiUniversity",
+  "Golang": "LiNetwork",
+  "Английский": "LiPlaneLanding"
 }
