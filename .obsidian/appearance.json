@@ -1,6 +1,8 @@
 {
   "textFontFamily": "JetBrains Mono",
-  "cssTheme": "",
-  "interfaceFontFamily": "Bodoni 72,Inter,JetBrains Mono",
-  "baseFontSize": 17
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "JetBrains Mono,Bodoni 72,Inter",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "nativeMenus": false
 }
