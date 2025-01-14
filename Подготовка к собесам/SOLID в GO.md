@@ -172,3 +172,61 @@ func main() {
 ```
 
 Здесь интерфейсы разделены, и структура Engineer может реализовывать только нужные методы, не обязываясь поддерживать ненужные.
+
+
+### D: Dependency Inversion Principle (Принцип инверсии зависимостей)
+
+Принцип инверсии зависимостей говорит, что модули верхнего уровня не должны зависеть от модулей нижнего уровня. Вместо этого оба типа модулей должны зависеть от абстракций.
+
+### Пример в Go
+
+```go
+package main
+
+import "fmt"
+
+// Определим интерфейс, от которого будет зависеть верхний уровень
+type Notifier interface {
+    Notify() string
+}
+
+// SMSNotifier — низкоуровневый модуль
+type SMSNotifier struct {
+    phoneNumber string
+}
+
+func (s SMSNotifier) Notify() string {
+    return fmt.Sprintf("Отправка SMS на номер: %s", s.phoneNumber)
+}
+
+// Модуль верхнего уровня зависит от интерфейса, а не от конкретной реализации
+type NotificationService struct {
+    notifier Notifier
+}
+
+func (ns NotificationService) SendNotification() {
+    fmt.Println(ns.notifier.Notify())
+}
+
+func main() {
+    smsNotifier := SMSNotifier{phoneNumber: "+123456789"}
+    service := NotificationService{notifier: smsNotifier}
+    service.SendNotification()
+}
+
+```
+
+Здесь `NotificationService` зависит от интерфейса `Notifier`, а не от конкретной реализации `SMSNotifier`. Это позволяет легко изменять способ уведомления, не изменяя `NotificationService`.
+
+
+## Заключение
+
+**S** - Single Responsibility Principle: каждый класс/модуль должен иметь одну ответственность.
+
+**O** - Open/Closed Principle: код открыт для расширения, но закрыт для модификации.
+
+**L** - Liskov Substitution Principle: подклассы могут заменять базовые классы без нарушения программы.
+
+**I** - Interface Segregation Principle: лучше много специфических интерфейсов, чем один общий.
+
+**D** - Dependency Inversion Principle: высокоуровневые модули не зависят от низкоуровневых; оба зависят от абстракций.

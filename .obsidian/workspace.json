@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "0484003bcd8bfc2c",
+        "id": "f86fdc4676624580",
         "type": "tabs",
         "children": [
           {
-            "id": "52bf2c261f9249aa",
+            "id": "1ac3a4755b237558",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ПодготовкаКсобеседованиям"
+            }
+          },
+          {
+            "id": "5b92a5dc4fcc599a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +33,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.51103591918945,
-    "collapsed": true
+    "width": 239.51103591918945
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -215,34 +231,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "52bf2c261f9249aa",
+  "active": "5b92a5dc4fcc599a",
   "lastOpenFiles": [
-    "MetaData/Мапы.md",
-    "Безымянная Kanban-доска 1.md",
-    "Уник/Баранов/Матрицы G и H.md",
-    "MetaData/Полевые.md",
+    "Вопросы с собеседований.md",
+    "Подготовка к собесам/Многопоточность.md",
+    "MetaData/Горутины.md",
+    "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
+    "планировщикГорутин.md",
+    "Garbage Collector.md",
+    "систему планирования M N.md",
+    "Runtime.md",
+    "Планировщик GO.md",
+    "Подготовка к собесам/Стек и Куча.md",
+    "Инструкций.md",
     "MetaData/профилирование.md",
-    "Golang/Подготовка к собесам/Стек и Куча.md",
-    "Чем горутина отличается от потока.md",
-    "Решение различных проблем.md",
-    "MetaData/коллизий.md",
-    "Golang/Подготовка к собесам/Типы данных.md",
-    "Golang/Подготовка к собесам/Linux.md",
-    "Golang/Подготовка к собесам.md",
-    "Golang/Подготовка к собесам/1.Rest API.md",
-    "Golang/Подготовка к собесам/Многопоточность.md",
-    "Golang/Подготовка к собесам/Сети.md",
-    "Golang/Golang.md",
-    "Golang/Ideas.md",
-    "Golang/Something.md",
-    "Golang/Links for teach.md",
-    "Excalidraw/Drawing 2024-12-20 01.23.15.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-10 20.52.09.excalidraw.md",
-    "Уник/Баранов/Something.md",
-    "Уник/Зольникова/Зачет.md",
-    "Здоровье/Money.md",
-    "Здоровье/Life.md",
-    "Здоровье/Книги.md",
+    "Подготовка к собесам/БД.md",
+    "MetaData/Каналы.md",
+    "MetaData/context.Context.md",
+    "Pasted image 20250114182036.png",
+    "каналыV2.md",
+    "Подготовка к собесам/Типы данных.md",
+    "Подготовка к собесам/SOLID в GO.md",
+    "Подготовка к собесам/SQL.md",
+    "MetaData/Слайсы.md",
+    "MetaData/Изолированность.md",
+    "MetaData/Виды JOIN.md",
+    "MetaData/ACID.md",
+    "MetaData/Мапы.md",
+    "Подготовка к собесам/Сети.md",
+    "MetaData/Оптимизация запросов и использование EXPLAIN.md",
+    "{537077D6-42A7-452C-9C30-DEEA435FE383}.png",
+    "MetaData/{FD75975F-36C3-4394-93A4-A0D8BE0ED88B}.png",
     "Excalidraw",
     "MetaData/ru_keys.webp",
     "Здоровье",
