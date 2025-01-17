@@ -6,13 +6,13 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiKanban",
       "LiPlaneLanding",
       "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "🌏",
       "LiNetwork",
       "LiUniversity",
-      "LiAudioLines",
-      "LiHeart"
+      "LiAudioLines"
     ],
     "recentlyUsedIconsSize": 7,
     "rules": [],
@@ -40,5 +40,6 @@
   "Уник": "LiUniversity",
   "Golang": "LiNetwork",
   "Английский": "LiPlaneLanding",
-  "Подготовка к собесам": "LiNetwork"
+  "Подготовка к собесам": "LiNetwork",
+  "Подготовка к собесам/ListMyTasks.md": "LiKanban"
 }

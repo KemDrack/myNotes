@@ -30,5 +30,13 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "editing-toolbar:editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
   ]
 }
