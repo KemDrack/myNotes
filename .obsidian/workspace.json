@@ -24,35 +24,35 @@
             }
           },
           {
-            "id": "4ad53349e2c5b11a",
+            "id": "2ccc8ed7a8d53aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы с собеседований.md",
+                "file": "WaitGroup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы с собеседований"
+              "title": "WaitGroup"
             }
           },
           {
-            "id": "26773b4510ff94da",
+            "id": "23de6fbf1390998f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Context.md",
+                "file": "Подготовка к собесам/Многопоточность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Context"
+              "title": "Многопоточность"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945,
-    "collapsed": true
+    "width": 239.51103591918945
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -251,36 +250,37 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "26773b4510ff94da",
+  "active": "6adcbc67136b6106",
   "lastOpenFiles": [
+    "Подготовка к собесам/Многопоточность.md",
+    "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
+    "WaitGroup.md",
+    "Defer.md",
+    "MetaData/ACID.md",
+    "Подготовка к собесам/Типы данных.md",
+    "Context.md",
+    "Вопросы с собеседований.md",
+    "Вопросы с собеседований(типы данных).md",
+    "MetaData/Индексы.md",
+    "Подготовка к собесам/БД.md",
+    "MetaData/Виды JOIN.md",
+    "MetaData/Изолированность.md",
+    "Подготовка к собесам/Стек и Куча.md",
+    "Подготовка к собесам/Сети.md",
+    "Подготовка к собесам/Redis.md",
+    "Подготовка к собесам/Linux.md",
+    "MetaData/Мапы.md",
+    "MetaData/Каналы.md",
+    "Mutex.md",
+    "MetaData/Горутины.md",
+    "Уник/Баранов.md",
+    "Безопасность данных в БД.md",
+    "Фантомное чтение.md",
+    "MetaData/Оптимизация запросов и использование EXPLAIN.md",
     "{21A9882F-9160-482B-A223-AAF19B4D5498} 1.png",
     "{21A9882F-9160-482B-A223-AAF19B4D5498}.png",
     "API.md",
-    "Context.md",
     "{D84AEDC6-B8D0-4D5A-90A1-B58248318E3E}.png",
-    "MetaData/Виды JOIN.md",
-    "Подготовка к собесам/БД.md",
-    "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
-    "Вопросы с собеседований.md",
-    "Подготовка к собесам/Многопоточность.md",
-    "планировщикГорутин.md",
-    "MetaData/Горутины.md",
-    "Вопросы с собеседования.md",
-    "MetaData/профилирование.md",
-    "MetaData/Индексы.md",
-    "Вопросы с собеседований БД.md",
-    "Агрегатные функции.md",
-    "MetaData/Оптимизация запросов и использование EXPLAIN.md",
-    "GROUP BY.md",
-    "MetaData/ACID.md",
-    "масштабирование.md",
-    "Master - Master.md",
-    "Подготовка к собесам/ListMyTasks.md",
-    "load balancer.md",
-    "Master - Slave.md",
-    "Подготовка к собесам/Сети.md",
-    "GraphQL.md",
-    "Подготовка к собесам/REST.md",
     "Pasted image 20250114182036.png",
     "{537077D6-42A7-452C-9C30-DEEA435FE383}.png",
     "MetaData/{FD75975F-36C3-4394-93A4-A0D8BE0ED88B}.png",
