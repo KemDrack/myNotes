@@ -16,6 +16,7 @@
               "state": {
                 "file": "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true,
@@ -24,35 +25,53 @@
             }
           },
           {
-            "id": "e2b9d789cf9a14c8",
+            "id": "361773a6776d2ee9",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Планировщик.md",
-                "mode": "source",
-                "source": false
+                "file": "Подготовка к собесам/ListMyTasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Планировщик"
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "ListMyTasks"
             }
           },
           {
-            "id": "1e7ca64099035c36",
+            "id": "eae3e548df544fc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы с собеседований.md",
+                "file": "Собес/ООП/Вопросы по ООП и SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы с собеседований"
+              "title": "Вопросы по ООП и SOLID"
+            }
+          },
+          {
+            "id": "d2739ca3d47133cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +90,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -108,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 276.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -124,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Каналы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Каналы"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -143,77 +162,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добро пожаловать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Добро пожаловать"
-            }
-          },
-          {
-            "id": "919e79c9e2f4010e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          },
-          {
-            "id": "b019672c8a6e6660",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Golang/Something.md"
-              },
-              "icon": "lucide-list",
-              "title": "Структура Something"
-            }
-          },
-          {
-            "id": "9011d550daea5f03",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "c64af714196900ee",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
-          },
-          {
-            "id": "61ee9bdefbcb2e98",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "706c1af8f6eaf8bc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -227,16 +180,16 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 535.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
@@ -250,34 +203,45 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "1e7ca64099035c36",
+  "active": "d2739ca3d47133cf",
   "lastOpenFiles": [
-    "Планировщик.md",
-    "Вопросы с собеседований.md",
-    "Подготовка к собесам/Многопоточность.md",
+    "Собес/ООП/Вопросы по ООП и SOLID.md",
+    "Собес/ООП/SOLID в GO.md",
+    "ООП и SOLID.md",
     "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
-    "Runtime.md",
-    "Планировщик GO.md",
-    "планировщикГорутин.md",
-    "WaitGroup.md",
-    "Mutex.md",
-    "sync.Map.md",
-    "систему планирования M N.md",
-    "MetaData/Горутины.md",
-    "Подготовка к собесам/Стек и Куча.md",
+    "SystemDesign.md",
+    "Подготовка к собесам/ListMyTasks.md",
+    "Собес/ООП/Утинная типизация.md",
+    "Подготовка к собесам/Многопоточность.md",
+    "Опыт.md",
+    "Собес/Опыт/Методологии разработки и опыт.md",
+    "Собес/ООП/ООП.md",
+    "Собес/Типы данных/Интерфейсы.md",
+    "Собес/ООП/Поведенческие паттерны.md",
     "Подготовка к собесам/Типы данных.md",
-    "Атомарные операции.md",
-    "MetaData/Мапы.md",
-    "atomic.md",
-    "Подготовка к собесам/Redis.md",
-    "MetaData/Методологии разработки и опыт.md",
-    "Context.md",
-    "каналыV2.md",
-    "Сontext.md",
-    "Вопросы с собеседований(типы данных).md",
-    "MetaData/Каналы.md",
-    "ЛайфкодингМногопоточности.md",
-    "RWmutex.md",
+    "Собес/ООП/Паттерны в ООП.md",
+    "Интерфейс.md",
+    "Runtime.md",
+    "MetaData/Key-value.md",
+    "MetaData/GORM.md",
+    "MetaData/openapi.yaml.md",
+    "MetaData/Кодогенерация.md",
+    "MetaData/профилирование.md",
+    "Собес/ООП/Структурные паттерны.md",
+    "Собес/ООП/Порождающие паттерны.md",
+    "Собес/Типы данных/коллизий.md",
+    "Собес/Типы данных/Когда происходит перехеширование.md",
+    "Собес/Опыт",
+    "Собес/Runtime",
+    "MetaData/REST.pdf",
+    "MetaData/ru_keys.webp",
+    "Собес/Многопоточность",
+    "Собес/Типы данных",
+    "Собес/ООП",
+    "Собес/БД",
+    "Собес",
+    "Подготовка к собесам/БД",
+    "Подготовка к собесам/Без названия.canvas",
     "{21A9882F-9160-482B-A223-AAF19B4D5498} 1.png",
     "{21A9882F-9160-482B-A223-AAF19B4D5498}.png",
     "{D84AEDC6-B8D0-4D5A-90A1-B58248318E3E}.png",
@@ -285,18 +249,8 @@
     "{537077D6-42A7-452C-9C30-DEEA435FE383}.png",
     "MetaData/{FD75975F-36C3-4394-93A4-A0D8BE0ED88B}.png",
     "Excalidraw",
-    "MetaData/ru_keys.webp",
-    "Здоровье",
     "MetaData/ru_relation_dbms.webp",
-    "Уник/Зольникова",
-    "MetaData/REST.pdf",
-    "Golang/OPENAPI",
-    "Английский",
     "MetaData/Pasted image 20241128163210.png",
-    "Уник/Уваров",
-    "Уник/ТСАУ",
-    "YouTube",
-    "Golang",
     "MetaData/Pasted image 20241125121509.png"
   ]
 }

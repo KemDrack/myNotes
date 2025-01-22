@@ -6,13 +6,13 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiKanban",
-      "LiPlaneLanding",
-      "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "🌏",
-      "LiNetwork",
-      "LiUniversity",
-      "LiAudioLines"
+      "👨‍💼",
+      "LiType",
+      "LiMoreHorizontal",
+      "LiDatabase",
+      "🚩",
+      "🔎",
+      "LiKanban"
     ],
     "recentlyUsedIconsSize": 7,
     "rules": [],
@@ -40,5 +40,11 @@
   "Golang": "LiNetwork",
   "Английский": "LiPlaneLanding",
   "Подготовка к собесам": "LiNetwork",
-  "Подготовка к собесам/ListMyTasks.md": "LiKanban"
+  "Подготовка к собесам/ListMyTasks.md": "LiKanban",
+  "Подготовка к собесам/ПодготовкаКсобеседованиям.md": "🔎",
+  "Собес": "🚩",
+  "Собес/БД": "LiDatabase",
+  "Собес/Многопоточность": "LiMoreHorizontal",
+  "Собес/Типы данных": "LiType",
+  "Собес/Опыт": "👨‍💼"
 }
