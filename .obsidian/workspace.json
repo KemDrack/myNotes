@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "eae3e548df544fc6",
+            "id": "64511e29f47f9ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,17 +61,35 @@
             }
           },
           {
-            "id": "d2739ca3d47133cf",
+            "id": "473bf454994b698e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Собес/ООП/ООП.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "ООП"
+            }
+          },
+          {
+            "id": "8f6d4bab30f3fa62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/ООП/SOLID в GO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLID в GO"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Собес/ООП/Вопросы по ООП и SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Вопросы по ООП и SOLID"
             }
           },
           {
@@ -162,11 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Собес/ООП/Вопросы по ООП и SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Вопросы по ООП и SOLID"
             }
           },
           {
@@ -203,19 +223,19 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "d2739ca3d47133cf",
+  "active": "64511e29f47f9ef3",
   "lastOpenFiles": [
+    "Собес/ООП/ООП.md",
     "Собес/ООП/Вопросы по ООП и SOLID.md",
     "Собес/ООП/SOLID в GO.md",
     "ООП и SOLID.md",
     "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
-    "SystemDesign.md",
     "Подготовка к собесам/ListMyTasks.md",
+    "SystemDesign.md",
     "Собес/ООП/Утинная типизация.md",
     "Подготовка к собесам/Многопоточность.md",
     "Опыт.md",
     "Собес/Опыт/Методологии разработки и опыт.md",
-    "Собес/ООП/ООП.md",
     "Собес/Типы данных/Интерфейсы.md",
     "Собес/ООП/Поведенческие паттерны.md",
     "Подготовка к собесам/Типы данных.md",
