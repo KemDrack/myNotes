@@ -47,7 +47,21 @@
             }
           },
           {
-            "id": "663eacee35779e1c",
+            "id": "637c8cb646d985d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL запросы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL запросы"
+            }
+          },
+          {
+            "id": "4cdfb37e7cbcf1ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,35 +75,21 @@
             }
           },
           {
-            "id": "a319086b840f4385",
+            "id": "22ba3def9ae6844f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собес/Многопоточность/Вопросы с собеседований.md",
+                "file": "Собес/Многопоточность/Defer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы с собеседований"
-            }
-          },
-          {
-            "id": "5d07000dacd02f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/Многопоточность/Горутины.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Горутины"
+              "title": "Defer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.51103591918945,
-    "collapsed": true
+    "width": 232.51103591918945
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собес/Многопоточность/ЛайфкодингМногопоточности.md",
+                "file": "SQL запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ЛайфкодингМногопоточности"
+              "title": "Обратные ссылки для SQL запросы"
             }
           },
           {
@@ -181,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Собес/Многопоточность/ЛайфкодингМногопоточности.md",
+                "file": "SQL запросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из ЛайфкодингМногопоточности"
+              "title": "Исходящие ссылки из SQL запросы"
             }
           },
           {
@@ -197,6 +196,41 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "b78e4b0c9f1e3ab7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4547bda420968aa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Собес/Многопоточность/ЛайфкодингМногопоточности.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура ЛайфкодингМногопоточности"
+            }
+          },
+          {
+            "id": "d994f520b8e01ba4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
             }
           }
         ],
@@ -223,34 +257,34 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "663eacee35779e1c",
+  "active": "4cdfb37e7cbcf1ff",
   "lastOpenFiles": [
-    "Собес/Многопоточность/Горутины.md",
-    "Подготовка к собесам/Многопоточность.md",
-    "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
     "Подготовка к собесам/ListMyTasks.md",
     "Собес/Многопоточность/ЛайфкодингМногопоточности.md",
+    "Собес/Многопоточность/Defer.md",
+    "Подготовка к собесам/Многопоточность.md",
+    "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
+    "SQL запросы.md",
+    "Подготовка к собесам/REST.md",
+    "API.md",
+    "GraphQL.md",
+    "SystemDesign.md",
+    "Подготовка к собесам/БД.md",
+    "ЛайфхакиБД.md",
+    "Подготовка к собесам/Сети.md",
+    "Подготовка к собесам/Linux.md",
     "Собес/Многопоточность/Вопросы с собеседований.md",
+    "Собес/Многопоточность/Горутины.md",
+    "Вопросы с собеседований(Kafka).md",
+    "Микросервисы, Монолит.md",
+    "Kafka.md",
     "Prometheus.md",
     "Grafana.md",
     "RabbitMQ.md",
-    "Kafka.md",
     "Мониторинг.md",
-    "Подготовка к собесам/Linux.md",
-    "Вопросы с собеседований(Kafka).md",
     "Подготовка к собесам/Redis.md",
     "ООП и SOLID.md",
     "Собес/ООП/ООП.md",
-    "Собес/ООП/Паттерны в ООП.md",
-    "Вопросы с собеседовний(Redis).md",
-    "MongoDB.md",
-    "Подготовка к собесам/БД.md",
-    "Master - Slave.md",
-    "Подготовка к собесам/Типы данных.md",
-    "Шардирование.md",
-    "SystemDesign.md",
-    "Собес/БД/Вопросы с собеседований БД.md",
-    "Реплицирование.md",
     "Собес/Опыт",
     "Собес/Runtime",
     "MetaData/REST.pdf",
