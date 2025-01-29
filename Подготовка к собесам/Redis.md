@@ -43,16 +43,16 @@
     - Применение: хранение пользовательских профилей.
     - Команды: `HSET`, `HGET`, `HGETALL`
 
-|Команда|Описание|Пример|
-|---|---|---|
-|`HSET key field value`|Устанавливает поле в хэше.|`HSET user:1 name "John"`|
-|`HGET key field`|Получает значение поля.|`HGET user:1 name` → `John`|
-|`HGETALL key`|Получает все поля и значения.|`HGETALL user:1` → `name John`|
-|`HDEL key field`|Удаляет поле из хэша.|`HDEL user:1 name`|
-|`HEXISTS key field`|Проверяет, существует ли поле.|`HEXISTS user:1 name` → `1`|
-|`HLEN key`|Возвращает количество полей.|`HLEN user:1` → `1`|
-|`HINCRBY key field increment`|Увеличивает значение поля на `increment`.|`HINCRBY user:1 age 1`|
-|`HMSET key field1 val1 field2 val2`|Устанавливает несколько полей в хэше.|`HMSET user:1 name "John" age "30"`|
+| Команда                             | Описание                                  | Пример                              |
+| ----------------------------------- | ----------------------------------------- | ----------------------------------- |
+| `HSET key field value`              | Устанавливает поле в хэше.                | `HSET user:1 name "John"`           |
+| `HGET key field`                    | Получает значение поля.                   | `HGET user:1 name` → `John`         |
+| `HGETALL key`                       | Получает все поля и значения.             | `HGETALL user:1` → `name John`      |
+| `HDEL key field`                    | Удаляет поле из хэша.                     | `HDEL user:1 name`                  |
+| `HEXISTS key field`                 | Проверяет, существует ли поле.            | `HEXISTS user:1 name` → `1`         |
+| `HLEN key`                          | Возвращает количество полей.              | `HLEN user:1` → `1`                 |
+| `HINCRBY key field increment`       | Увеличивает значение поля на `increment`. | `HINCRBY user:1 age 1`              |
+| `HMSET key field1 val1 field2 val2` | Устанавливает несколько полей в хэше.     | `HMSET user:1 name "John" age "30"` |
 3. **Списки (Lists)**:
     - Последовательность упорядоченных элементов
     - Применение: очереди задач, ленты новостей.
