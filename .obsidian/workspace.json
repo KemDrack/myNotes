@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "baea18e366700cdf",
+            "id": "ed66bd538972aefd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -65,49 +65,36 @@
             }
           },
           {
-            "id": "d0f9d1f9e89dee37",
+            "id": "0560d848fac18eb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Настроил самые часто применяемые формулы в Redis, чтобы минимизировать время отклика.md",
+                "file": "Отправляем запрос в Stripe API.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Настроил самые часто применяемые формулы в Redis, чтобы минимизировать время отклика"
+              "title": "Отправляем запрос в Stripe API"
             }
           },
           {
-            "id": "01478081b3aaa1a7",
+            "id": "9b8a9bc5c2eb7a07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Легенда 2 работы.md",
+                "file": "WebSockets, Webhooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Легенда 2 работы"
-            }
-          },
-          {
-            "id": "f6318a1cad328edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Внедрил систему отчетов через REST API для анализа эффективности классификации.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Внедрил систему отчетов через REST API для анализа эффективности классификации"
+              "title": "WebSockets, Webhooks"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.51103591918945
+    "width": 316.51103591918945
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -235,10 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Внедрил систему отчетов через REST API для анализа эффективности классификации.md"
+                "file": "Вопросы(1).md"
               },
               "icon": "lucide-list",
-              "title": "Структура Внедрил систему отчетов через REST API для анализа эффективности классификации"
+              "title": "Структура Вопросы(1)"
             }
           },
           {
@@ -256,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,34 +262,74 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "f6318a1cad328edb",
+  "floating": {
+    "id": "383d59981a9e7b7a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ffae98eaa72657ff",
+        "type": "window",
+        "children": [
+          {
+            "id": "9862551714eae2b3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "20b4d9a1eb9a8de3",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-02-04 00.16.34.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-02-04 00.16.34.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 575,
+        "y": 1571,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "9b8a9bc5c2eb7a07",
   "lastOpenFiles": [
-    "Собес/Опыт/Опыт.md",
-    "Внедрил систему отчетов через REST API для анализа эффективности классификации.md",
-    "Настроил самые часто применяемые формулы в Redis, чтобы минимизировать время отклика.md",
-    "Подготовка к собесам/Redis.md",
-    "Легенда 2 работы.md",
-    "Вопросы по Redis.md",
+    "Excalidraw/Drawing 2025-02-04 00.16.34.excalidraw.md",
+    "WebSockets, Webhooks.md",
+    "Подготовка к собесам/Сети.md",
     "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
-    "Подготовка к собесам/ListMyTasks.md",
-    "Вопросы по LoadBalancer.md",
-    "load balancer.md",
-    "Интегрировал MongoDB для хранения классифицированных случаев и истории решений.md",
-    "Собес/Опыт/Вопросы по БД.md",
-    "Собес/Опыт/Методологии разработки и опыт.md",
-    "Вопросы по Kafka.md",
-    "Пример взаимодействия микросервисов через Kafka.md",
-    "Kafka.md",
-    "Собес/Типы данных/Слайсы.md",
-    "Лайфкодинг.md",
-    "Ответ на вопрос(что делал).md",
-    "Библиотеки(work).md",
+    "Собес/Многопоточность/каналыV2.md",
     "Тестирование в GO.md",
-    "Собес/Многопоточность/ЛайфкодингМногопоточности.md",
-    "Подготовка к собесам/Типы данных.md",
-    "Подготовка к собесам/БД.md",
-    "k8s.md",
-    "Подготовка к собесам/Многопоточность.md",
+    "Собес/Многопоточность/Каналы.md",
+    "AAA.md",
+    "Собес/Опыт/Опыт.md",
+    "Отправляем запрос в Stripe API.md",
+    "Задача на переработку сервиса для интеграции с провайдерами платежей.md",
+    "POST /applepay/validate-merchant.md",
+    "Вопросы от HR.md",
+    "Собес/Опыт/Легенда 1 работы.md",
+    "Собес/Опыт/Методологии разработки и опыт.md",
+    "Kafka.md",
+    "Полная картина платежа.md",
+    "После мы можем проверить статус.md",
+    "POST /applepay",
+    "POST ",
+    "Обработка платежного токена.md",
+    "Merchant ID, сертификаты и прочие сущности.md",
+    "что делает Back.md",
+    "Интеграция с Stripe API.md",
+    "что делает Frontend.md",
+    "Подготовка к собесам/ListMyTasks.md",
+    "Pasted image 20250203174916.png",
+    "Задача с автоматической классификацией страховых случаеи.md",
+    "Собес/ООП/SOLID в GO.md",
     "Собес/Опыт",
     "Собес/Runtime",
     "MetaData/REST.pdf",
@@ -312,7 +339,6 @@
     "Собес/ООП",
     "Собес/БД",
     "Собес",
-    "Подготовка к собесам/БД",
     "Подготовка к собесам/Без названия.canvas",
     "{21A9882F-9160-482B-A223-AAF19B4D5498} 1.png",
     "{21A9882F-9160-482B-A223-AAF19B4D5498}.png",
@@ -320,9 +346,7 @@
     "Pasted image 20250114182036.png",
     "{537077D6-42A7-452C-9C30-DEEA435FE383}.png",
     "MetaData/{FD75975F-36C3-4394-93A4-A0D8BE0ED88B}.png",
-    "Excalidraw",
     "MetaData/ru_relation_dbms.webp",
-    "MetaData/Pasted image 20241128163210.png",
-    "MetaData/Pasted image 20241125121509.png"
+    "MetaData/Pasted image 20241128163210.png"
   ]
 }

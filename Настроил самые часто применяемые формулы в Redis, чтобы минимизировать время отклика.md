@@ -1,3 +1,16 @@
+Когда клиент подавал страховой случай, система могла быстро **извлекать нужные коэффициенты из Redis** и рассчитывать риск **без обращения к базе данных**
+- Риск ДТП зависит от возраста и стажа водителя
+- Риск болезни зависит от возраста и хронических заболеваний
+**Коэффициенты** хранились в Redis:
+```go
+redisClient.HSet(ctx, "risk_factors", "age:18-25", "1.5")
+redisClient.HSet(ctx, "risk_factors", "age:26-35", "1.2")
+redisClient.HSet(ctx, "risk_factors", "experience:0-5", "1.8")
+redisClient.HSet(ctx, "risk_factors", "experience:6-10", "1.3")
+redisClient.HSet(ctx, "risk_factors", "chronic:yes", "2.0")
+redisClient.HSet(ctx, "risk_factors", "chronic:no", "1.0")
+```
+
 
 
 [[Redis]] - in-memory key-value хранилище, идеально подходящее для хранения часто используемых данных
@@ -5,8 +18,6 @@
 Чтобы ускорить отклик системы, результаты формул можно сохранить в Redis. Это называется **кешированием**.
 - Сначала проверяется, есть ли результат формулы в Redis (кеш-хит).
 - Если результата нет (кеш-мисс), он вычисляется, сохраняется в Redis, а затем возвращается клиенту.
-
-
 
 ```go
 func calculateFinalPrice(basePrice, discount, tax float64) float64 {

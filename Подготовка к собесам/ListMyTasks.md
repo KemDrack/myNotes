@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Question for work
 
 - [ ] Вопрос: Не будет ли мешать учеба работе?
+- [ ] Профильное программистическое
 
 
 ## Tasks
@@ -22,6 +23,11 @@ kanban-plugin: board
 - [ ] Плохо с планировщиком
 - [ ] Как обработать панику
 - [ ] Что за функция init, использовалась в 14 задаче
+- [ ] Redis claster
+- [ ] Понять что такое WebSocket and webhooks
+- [ ] OAuth and JWT
+- [ ] RWMutex
+- [ ] 3A Testing
 
 
 ## Progress

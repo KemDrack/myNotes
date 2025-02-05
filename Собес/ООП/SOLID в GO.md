@@ -243,9 +243,9 @@ func main() {
 
 ## Заключение
 
-**S** - Single Responsibility Principle: каждый класс/модуль должен иметь одну ответственность.
+**S** - Single Responsibility Principle: каждый модуль должен иметь одну ответственность.
 
-**O** - Open/Closed Principle: код открыт для расширения, но закрыт для модификации.
+**O** - Open/Closed Principle: код открыт для расширения, но закрыт для модификации
 
 **L** - Liskov Substitution Principle: подклассы могут заменять базовые классы без нарушения программы.
 
