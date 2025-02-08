@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] Redis claster
 - [ ] Понять что такое WebSocket and webhooks
 - [ ] OAuth and JWT
+- [ ] middleware
 - [ ] RWMutex
 - [ ] 3A Testing
 
