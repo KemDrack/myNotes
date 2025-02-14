@@ -6,13 +6,13 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEthernetPort",
+      "⁉",
       "👨‍💼",
       "LiType",
       "LiMoreHorizontal",
       "LiDatabase",
-      "🚩",
-      "🔎",
-      "LiKanban"
+      "🚩"
     ],
     "recentlyUsedIconsSize": 7,
     "rules": [],
@@ -46,5 +46,7 @@
   "Собес/БД": "LiDatabase",
   "Собес/Многопоточность": "LiMoreHorizontal",
   "Собес/Типы данных": "LiType",
-  "Собес/Опыт": "👨‍💼"
+  "Собес/Опыт": "👨‍💼",
+  "Собес/Тестирование": "⁉",
+  "Собес/Network": "LiEthernetPort"
 }
