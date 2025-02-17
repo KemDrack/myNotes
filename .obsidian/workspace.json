@@ -4,97 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "f86fdc4676624580",
+        "id": "956afc9ab29fac86",
         "type": "tabs",
         "children": [
           {
-            "id": "ed66bd538972aefd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/Опыт/Опыт.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Опыт"
-            }
-          },
-          {
-            "id": "4abceb4129cce5c7",
+            "id": "47d30b7fe415a1df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "АрхитектурнаяСекция.md",
-                "mode": "source",
-                "source": false
+                "file": "Подготовка к собесам/ListMyTasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "АрхитектурнаяСекция"
-            }
-          },
-          {
-            "id": "3fc62df455315a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/БД/Индексы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Индексы"
-            }
-          },
-          {
-            "id": "f46c6df163b25a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/Опыт/Легенда 1 работы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Легенда 1 работы"
-            }
-          },
-          {
-            "id": "3d7b24b5ab723a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/БД/Индексы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Индексы"
-            }
-          },
-          {
-            "id": "81e3bc623502c446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/Многопоточность/Планировщик.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Планировщик"
+              "icon": "lucide-trello",
+              "title": "ListMyTasks"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,6 +176,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2410be8877a91f3a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -266,34 +211,34 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "3d7b24b5ab723a84",
+  "active": "47d30b7fe415a1df",
   "lastOpenFiles": [
-    "Задачи.md",
-    "Собес/БД/Индексы.md",
+    "Excalidraw/Drawing 2025-02-17 23.04.35.excalidraw.md",
+    "Подготовка к собесам/ListMyTasks.md",
+    "Безымянная Kanban-доска.md",
+    "Подготовка к собесам/Многопоточность.md",
+    "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
+    "MetaData/профилирование.md",
+    "Собес/Other/RabbitMQ.md",
+    "Собес/Многопоточность/Планировщик.md",
+    "Собес/Многопоточность/каналыV2.md",
+    "Собес/Многопоточность/Context.md",
+    "Собес/Многопоточность/Defer.md",
+    "Собес/Многопоточность/WaitGroup.md",
+    "Собес/Многопоточность/Mutex.md",
+    "Собес/Многопоточность/RWmutex.md",
+    "Собес/Многопоточность/Атомарные операции.md",
+    "Собес/Многопоточность/atomic.md",
+    "Собес/Многопоточность/ЛайфкодингМногопоточности.md",
+    "Собес/Многопоточность/Горутины.md",
+    "Уник/Баранов.md",
+    "Собес/Опыт/Опыт.md",
     "АрхитектурнаяСекция.md",
+    "Собес/БД/Индексы.md",
+    "Задачи.md",
     "Подготовка к собесам/Вопросы с собесов/ТЕХСОБЕС.md",
     "Подготовка к собесам/Вопросы с собесов/OZON 2.md",
     "Подготовка к собесам/Вопросы с собесов/OZON 1.md",
-    "Подготовка к собесам/Вопросы с собесов/Ozon техскрининг.md",
-    "Собес/Network/WebSockets, Webhooks.md",
-    "Собес/Многопоточность/Планировщик.md",
-    "Собес/Other/ElasticSearch.md",
-    "ВопросыOZON.md",
-    "Собес/Опыт/Легенда 1 работы.md",
-    "Собес/Network/Как происходит скачивание в торренте, если UDP не гарантирует передачу всех пакетов.md",
-    "Собес/Network/HTTP.md",
-    "Собес/Network/OSI.md",
-    "Собес/Network/Аутентификация и Авторизация.md",
-    "Собес/Network/Коды.md",
-    "Собес/Тестирование/Тестирование в GO.md",
-    "Собес/Тестирование/AAA.md",
-    "Собес/БД/Агрегатные функции.md",
-    "ЛайфкодингOZONбд.md",
-    "ЛайфкодингOZON.md",
-    "Собес/БД/Изолированность.md",
-    "Фантомное чтение.md",
-    "Собес/БД/ACID.md",
-    "Собес/БД/Виды JOIN.md",
     "{FD2572C2-3C89-43C0-8353-B870F676B97C}.png",
     "{ED810821-1192-46D6-BF2D-7A85ABA12D6B}.png",
     "Pasted image 20250216203620.png",
