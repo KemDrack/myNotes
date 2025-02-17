@@ -8,77 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ac3a4755b237558",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "ПодготовкаКсобеседованиям"
-            }
-          },
-          {
-            "id": "4a5e7eac231e01ad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1111.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "1111"
-            }
-          },
-          {
-            "id": "361773a6776d2ee9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Подготовка к собесам/ListMyTasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "ListMyTasks"
-            }
-          },
-          {
             "id": "ed66bd538972aefd",
             "type": "leaf",
             "pinned": true,
@@ -95,7 +24,63 @@
             }
           },
           {
-            "id": "d5f626cf807a2822",
+            "id": "4abceb4129cce5c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "АрхитектурнаяСекция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "АрхитектурнаяСекция"
+            }
+          },
+          {
+            "id": "3fc62df455315a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/БД/Индексы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Индексы"
+            }
+          },
+          {
+            "id": "f46c6df163b25a44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/Опыт/Легенда 1 работы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Легенда 1 работы"
+            }
+          },
+          {
+            "id": "3d7b24b5ab723a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/БД/Индексы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Индексы"
+            }
+          },
+          {
+            "id": "81e3bc623502c446",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,37 +92,9 @@
               "icon": "lucide-file",
               "title": "Планировщик"
             }
-          },
-          {
-            "id": "e13e90b411ec835d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Подготовка к собесам/Вопросы с собесов/OZON 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OZON 1"
-            }
-          },
-          {
-            "id": "c9ca16519a08e594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/ООП/SOLID в GO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOLID в GO"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 226.51103591918945
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -210,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собес/ООП/SOLID в GO.md",
+                "file": "Собес/Многопоточность/планировщикГорутин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для SOLID в GO"
+              "title": "Обратные ссылки для планировщикГорутин"
             }
           },
           {
@@ -235,16 +192,6 @@
               },
               "icon": "links-going-out",
               "title": "Исходящие ссылки из Prometheus"
-            }
-          },
-          {
-            "id": "5a533dae1afe66c7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -266,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Собес/ООП/SOLID в GO.md",
+                "file": "Собес/Многопоточность/планировщикГорутин.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура SOLID в GO"
+              "title": "Структура планировщикГорутин"
             }
           },
           {
@@ -284,9 +231,19 @@
               "icon": "SpacedRepIcon",
               "title": "Очередь заметок на повторение"
             }
+          },
+          {
+            "id": "08a8bc95e69020b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -309,36 +266,42 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "c9ca16519a08e594",
+  "active": "3d7b24b5ab723a84",
   "lastOpenFiles": [
-    "Собес/Многопоточность/sync.Map.md",
-    "Собес/Многопоточность/Планировщик.md",
-    "Собес/Runtime/Runtime.md",
-    "Собес/Runtime/Garbage Collector.md",
-    "Собес/Опыт/Вопросы от HR.md",
-    "Собес/Многопоточность/планировщикГорутин.md",
-    "Собес/Runtime/систему планирования M N.md",
-    "Собес/Опыт/Вопросы(1).md",
-    "Интегрировал MongoDB для хранения заявлений и их статусов, обеспечив быстрый доступ к данным.md",
-    "Собес/Опыт/SCRUM.md",
-    "Собес/Опыт/Легенда 2 работы.md",
-    "Собес/Опыт/Вопросы по БД.md",
-    "Собес/Опыт/Опыт.md",
-    "Подготовка к собесам/Вопросы с собесов/OZON 1.md",
+    "Задачи.md",
+    "Собес/БД/Индексы.md",
+    "АрхитектурнаяСекция.md",
+    "Подготовка к собесам/Вопросы с собесов/ТЕХСОБЕС.md",
     "Подготовка к собесам/Вопросы с собесов/OZON 2.md",
-    "Подготовка к собесам/ListMyTasks.md",
-    "Уник/Сидоренко.md",
-    "Собес/ООП/SOLID в GO.md",
-    "Собес/ООП/ООП.md",
-    "1111.md",
-    "Уник/Сеславин.md",
-    "Собес/Runtime/модель M N.md",
+    "Подготовка к собесам/Вопросы с собесов/OZON 1.md",
     "Подготовка к собесам/Вопросы с собесов/Ozon техскрининг.md",
+    "Собес/Network/WebSockets, Webhooks.md",
+    "Собес/Многопоточность/Планировщик.md",
+    "Собес/Other/ElasticSearch.md",
+    "ВопросыOZON.md",
+    "Собес/Опыт/Легенда 1 работы.md",
+    "Собес/Network/Как происходит скачивание в торренте, если UDP не гарантирует передачу всех пакетов.md",
+    "Собес/Network/HTTP.md",
+    "Собес/Network/OSI.md",
+    "Собес/Network/Аутентификация и Авторизация.md",
+    "Собес/Network/Коды.md",
+    "Собес/Тестирование/Тестирование в GO.md",
+    "Собес/Тестирование/AAA.md",
+    "Собес/БД/Агрегатные функции.md",
+    "ЛайфкодингOZONбд.md",
+    "ЛайфкодингOZON.md",
+    "Собес/БД/Изолированность.md",
+    "Фантомное чтение.md",
+    "Собес/БД/ACID.md",
+    "Собес/БД/Виды JOIN.md",
+    "{FD2572C2-3C89-43C0-8353-B870F676B97C}.png",
+    "{ED810821-1192-46D6-BF2D-7A85ABA12D6B}.png",
+    "Pasted image 20250216203620.png",
+    "{573FD347-891F-45C5-904F-5AABEAB0AE26}.png",
+    "Pasted image 20250216173330.png",
+    "Pasted image 20250216173315.png",
     "Подготовка к собесам/Вопросы с собесов",
     "{D207F53D-19A6-439F-90D1-77735D96EAC1}.png",
-    "Собес/Многопоточность/Context.md",
-    "Собес/Многопоточность/Вопросы с собеседований.md",
-    "Собес/Многопоточность/каналыV2.md",
     "Собес/Мониторинг",
     "Собес/Тестирование",
     "Pasted image 20250206184900.png",
@@ -351,12 +314,6 @@
     "Собес/Runtime",
     "MetaData/REST.pdf",
     "MetaData/ru_keys.webp",
-    "Подготовка к собесам/Без названия.canvas",
-    "{21A9882F-9160-482B-A223-AAF19B4D5498} 1.png",
-    "{21A9882F-9160-482B-A223-AAF19B4D5498}.png",
-    "{D84AEDC6-B8D0-4D5A-90A1-B58248318E3E}.png",
-    "Pasted image 20250114182036.png",
-    "{537077D6-42A7-452C-9C30-DEEA435FE383}.png",
-    "MetaData/{FD75975F-36C3-4394-93A4-A0D8BE0ED88B}.png"
+    "Подготовка к собесам/Без названия.canvas"
   ]
 }
