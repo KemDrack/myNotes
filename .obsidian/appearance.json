@@ -1,7 +1,7 @@
 {
   "textFontFamily": "JetBrains Mono",
   "cssTheme": "Things",
-  "interfaceFontFamily": "Bodoni 72,Inter,JetBrains Mono",
+  "interfaceFontFamily": "Inter",
   "baseFontSize": 17,
   "theme": "obsidian",
   "nativeMenus": false,

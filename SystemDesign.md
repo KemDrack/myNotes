@@ -3,7 +3,7 @@
 
 CleanArchitecture
 
-[[Микросервисы, Монолит]]
+[[Микросервисы, Монолит(MSA, SOA)]]
 [[API]], [[REST]], [[GraphQL]]
 
 

@@ -4,6 +4,10 @@ kanban-plugin: board
 
 ---
 
+## other
+
+
+
 ## Question for work
 
 - [ ] Как логирование занимался
@@ -57,6 +61,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false,"date-colors":[]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false,"date-colors":[]}
 ```
 %%
