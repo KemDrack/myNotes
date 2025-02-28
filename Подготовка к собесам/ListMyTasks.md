@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## other
 
+- [ ] **Circuit Breaker**
+- [ ] Миграции
 
 
 ## Question for work

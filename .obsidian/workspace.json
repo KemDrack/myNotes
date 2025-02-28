@@ -8,6 +8,32 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d071a127bc463f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/SystemDesign/Микросервисы, Монолит(MSA, SOA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Микросервисы, Монолит(MSA, SOA)"
+            }
+          },
+          {
+            "id": "4262642b75752336",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Подготовка к собесам/Вопросы с собесов/Резюме.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Резюме"
+            }
+          },
+          {
             "id": "33e4ced41b2318cd",
             "type": "leaf",
             "state": {
@@ -36,71 +62,72 @@
             }
           },
           {
-            "id": "4262642b75752336",
+            "id": "8c36b022919c47d9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "Подготовка к собесам/Вопросы с собесов/Резюме.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Резюме"
-            }
-          },
-          {
-            "id": "93b9241e91b5ec2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/БД/2PC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2PC"
-            }
-          },
-          {
-            "id": "daeff97f709c90f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/БД/2PC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2PC"
-            }
-          },
-          {
-            "id": "1268ecce4f9c47b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/Other/SAGA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Подготовка к собесам/ListMyTasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
+              "icon": "lucide-trello",
+              "title": "ListMyTasks"
+            }
+          },
+          {
+            "id": "d79d6129967e8d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/БД/Transaction Outbox.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "SAGA"
+              "title": "Transaction Outbox"
+            }
+          },
+          {
+            "id": "45cc3be28c4a0719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задача с провайдерами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задача с провайдерами"
+            }
+          },
+          {
+            "id": "6580ab36becd2e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/Многопоточность/Каналы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Каналы"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.51103591918945,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -283,55 +309,55 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "93b9241e91b5ec2d",
+  "active": "6580ab36becd2e5f",
   "lastOpenFiles": [
-    "Собес/БД/Transaction Outbox.md",
-    "Собес/БД/2PC.md",
-    "Собес/Other/SAGA.md",
-    "Хореография.md",
-    "Собес/SystemDesign/Архитектуры.md",
-    "Собес/Типы данных/Интерфейсы.md",
-    "Собес/Типы данных/Мапы.md",
-    "Собес/Многопоточность/Context.md",
-    "Собес/Многопоточность/Горутины.md",
-    "Собес/Многопоточность/Каналы.md",
-    "Собес/Многопоточность/Вопросы с собеседований.md",
+    "Собес/БД/Вопросы с собеседований БД.md",
+    "Собес/БД/Безопасность данных в БД.md",
+    "Собес/БД/Redis.md",
+    "Собес/БД/Виды JOIN.md",
+    "Собес/БД/Оптимизация запросов и использование EXPLAIN.md",
     "Собес/БД/Индексы.md",
+    "Собес/БД/Изолированность.md",
     "Собес/БД/ACID.md",
-    "Собес/БД/Реляционные.md",
-    "Собес/ООП/Паттерны в ООП.md",
-    "Собес/ООП/Порождающие паттерны.md",
-    "Собес/ООП/Паттерны.md",
-    "Собес/ООП/SOLID в GO.md",
+    "Собес/SystemDesign/Требования/Функциональные требования.md",
+    "Подготовка к собесам/Сети.md",
+    "Подготовка к собесам/REST.md",
+    "Подготовка к собесам/Вопросы с собесов/Ozon техскрининг.md",
+    "Подготовка к собесам/Вопросы с собесов/OZON 1.md",
+    "Собес/Алгоритмы/База.md",
     "Подготовка к собесам/Вопросы с собесов/Резюме.pdf",
-    "Подготовка к собесам/БД.md",
-    "Собес/Многопоточность/sync.Map.md",
-    "Собес/Многопоточность/Select.md",
-    "Собес/Многопоточность/ЛайфкодингМногопоточности.md",
-    "Собес/Многопоточность/Атомарные операции.md",
-    "Собес/Многопоточность/atomic.md",
-    "Собес/Многопоточность/RWmutex.md",
-    "Собес/Многопоточность/Mutex.md",
+    "Собес/SystemDesign/Микросервисы, Монолит(MSA, SOA).md",
     "Подготовка к собесам/Вопросы с собесов/Легенда.pdf",
-    "{9A2DDC18-5A46-4BF5-A21D-0C2BF02228BA}.png",
+    "Задача с провайдерами.md",
+    "Подготовка к собесам/Вопросы с собесов/Ситилинк.md",
+    "Собес/Тестирование/AAA.md",
+    "Собес/SystemDesign/Балансировка нагрузки.md",
+    "Собес/SystemDesign/Требования/Проектирование ВКонтакте.md",
+    "API.md",
+    "Собес/Тестирование/Тестирование в GO.md",
+    "Вопросы с собеседований(Kafka).md",
+    "Собес/Other/Kafka.md",
+    "git merge rebase.md",
+    "Пример взаимодействия микросервисов через Kafka.md",
+    "{D96DD274-C6BF-4B00-951F-8911C69AA121}.png",
+    "{B5C714F0-E544-4DA3-A15F-B849CEE7DBB0}.png",
+    "Pasted image 20250226161412.png",
+    "{D9349730-49EC-434E-ADD1-E88FE9CC38A6}.png",
+    "{DFA01876-1359-45AF-8776-6D00696FCA00}.png",
+    "{E8D7078C-62D3-4F34-AC67-D7A55F2657C5}.png",
+    "{8DA630AB-5A5B-4121-89BC-19D808838E5C}.png",
+    "Собес/SystemDesign/Требования",
+    "{5ED96F9A-355F-4016-9022-AA522DBAADD1}.png",
+    "{A5968CE0-9D0B-465E-B133-73A1611AFCCE}.png",
+    "{FB13A605-C76C-4B37-99A3-590C5309F203}.png",
     "Собес/Алгоритмы",
-    "{C6B58ED4-07DC-45CE-B6D3-706526E3649A}.png",
-    "{DA11DF53-72DC-42C5-A8A0-C05C03FC7800}.png",
     "Boosty",
     "Собес/SystemDesign",
     "Без названия.canvas",
     "Recording 20250217230612.m4a",
-    "{FD2572C2-3C89-43C0-8353-B870F676B97C}.png",
-    "{ED810821-1192-46D6-BF2D-7A85ABA12D6B}.png",
-    "Pasted image 20250216203620.png",
-    "{573FD347-891F-45C5-904F-5AABEAB0AE26}.png",
-    "Pasted image 20250216173330.png",
-    "Pasted image 20250216173315.png",
     "Подготовка к собесам/Вопросы с собесов",
-    "{D207F53D-19A6-439F-90D1-77735D96EAC1}.png",
     "Собес/Мониторинг",
     "Собес/Тестирование",
-    "Собес/Network",
     "Подготовка к собесам/Без названия.canvas"
   ]
 }
