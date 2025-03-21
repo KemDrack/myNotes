@@ -8,34 +8,82 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33e4ced41b2318cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собес/Other/Linter Линтер.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linter Линтер"
-            }
-          },
-          {
             "id": "45cc3be28c4a0719",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процесс подачи и рассмотрения страховых случаев.md",
+                "file": "Подготовка к собесам/Вопросы с собесов/Чем занимался в Balcia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Процесс подачи и рассмотрения страховых случаев"
+              "title": "Чем занимался в Balcia"
+            }
+          },
+          {
+            "id": "db3d1dd7798675d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/БД/Распределенные tx/Event Stream.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Event Stream"
+            }
+          },
+          {
+            "id": "04f40f03f597e130",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Подготовка к собесам/ListMyTasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "ListMyTasks"
+            }
+          },
+          {
+            "id": "139adb7926b3eb78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/Kafka/Идемпотентность в Kafka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Идемпотентность в Kafka"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 230.5
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -198,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,34 +265,37 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "33e4ced41b2318cd",
+  "active": "08a8bc95e69020b0",
   "lastOpenFiles": [
-    "{7C9A55FD-315C-4DA5-9868-6CAF23FF8988}.png",
-    "Собес/Other/Query builder.md",
-    "Собес/Other/Linter Линтер.md",
-    "Собес/Опыт/Вопросы по БД.md",
-    "Собес/ООП/Порождающие паттерны.md",
-    "Собес/ООП/Паттерны в ООП.md",
-    "Собес/ООП/Паттерны.md",
+    "Собес/Kafka/Коротко про Kafka.md",
+    "Собес/Kafka/Kafka.md",
+    "Собес/БД/Распределенные tx/Event Sourcing.md",
+    "Подготовка к собесам/ПодготовкаКсобеседованиям.md",
+    "Подготовка к собесам/ListMyTasks.md",
+    "Собес/Kafka/Идемпотентность в Kafka.md",
+    "Вопросы с собеседований(Kafka).md",
     "Собес/БД/Распределенные tx/SAGA.md",
-    "Собес/Многопоточность/Семафор.md",
-    "Собес/Многопоточность/Воркерпул.md",
-    "Собес/Алгоритмы/Алгоритмы вытеснения.md",
-    "Собес/Алгоритмы/LeetCode.md",
-    "Собес/Алгоритмы/База.md",
+    "Собес/Kafka",
+    "Собес/БД/Распределенные tx/MVCC.md",
+    "Интегрировал API с системой безопасности Autostrade, обеспечив высокий уровень защиты данных.md",
+    "Собес/Опыт/Легенда 2 работы.md",
+    "Собес/Опыт/Вопросы по БД.md",
+    "Собес/Опыт/Опыт.md",
+    "Собес/Опыт/Методологии разработки и опыт.md",
+    "Собес/БД/Распределенные tx/Event Driven.md",
+    "Собес/БД/Распределенные tx/Event Stream.md",
+    "Собес/БД/Распределенные tx/Transaction Outbox.md",
+    "Реализация gracefull shutdown.md",
+    "Собес/SystemDesign/Теорема СAP.md",
     "Собес/SystemDesign/Балансировка нагрузки.md",
-    "Собес/SystemDesign/Виды приложений.md",
-    "Собес/Многопоточность/Каналы.md",
-    "Собес/Многопоточность/WaitGroup.md",
-    "Собес/Многопоточность/atomic.md",
-    "Собес/Типы данных/Интерфейсы.md",
-    "Собес/Типы данных/Структуры.md",
-    "Собес/Типы данных/Слайсы.md",
-    "Собес/Типы данных/Мапы.md",
-    "Собес/Other/Kafka.md",
-    "Собес/БД/Индексы.md",
-    "Собес/Network/HTTP.md",
-    "Собес/Многопоточность/Context.md",
+    "Собес/SystemDesign/Требования/Проектирование ВКонтакте.md",
+    "load balancer.md",
+    "АрхитектурнаяСекция.md",
+    "Необходимо спроектировать архитектуру бекенда для мессенджера (Slack, Teams, Mattermost).md",
+    "Собес/SystemDesign/Circuit Breaker.md",
+    "Собес/SystemDesign/Staging area.md",
+    "Life",
+    "{7C9A55FD-315C-4DA5-9868-6CAF23FF8988}.png",
     "{5CC650CB-693F-4868-9DA4-8CC1476B3A96}.png",
     "{FB13A605-C76C-4B37-99A3-590C5309F203}.png",
     "Подготовка к собесам/Вопросы с собесов/Легенда.pdf",
@@ -258,14 +309,11 @@
     "{D96DD274-C6BF-4B00-951F-8911C69AA121}.png",
     "{B5C714F0-E544-4DA3-A15F-B849CEE7DBB0}.png",
     "Pasted image 20250226161412.png",
-    "{D9349730-49EC-434E-ADD1-E88FE9CC38A6}.png",
     "Собес/SystemDesign/Требования",
     "Собес/Алгоритмы",
     "Boosty",
     "Собес/SystemDesign",
     "Без названия.canvas",
-    "Recording 20250217230612.m4a",
-    "Подготовка к собесам/Вопросы с собесов",
     "Подготовка к собесам/Без названия.canvas"
   ]
 }

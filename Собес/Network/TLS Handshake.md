@@ -1,5 +1,3 @@
-
-
 Клиент (`Chrome`, `curl`, `Go http.Client`) отправляет **`Client Hello`**:
 ```
 Client Hello
