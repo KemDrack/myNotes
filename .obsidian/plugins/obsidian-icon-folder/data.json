@@ -6,13 +6,13 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiSortDesc",
-      "LiMonitorCog",
-      "LiEthernetPort",
-      "⁉",
-      "👨‍💼",
-      "LiType",
-      "LiMoreHorizontal"
+      "LiGitlab",
+      "📭",
+      "LiArrowDown01",
+      "LiHousePlug",
+      "LiArrowLeftRight",
+      "❤️‍🔥",
+      "🕖"
     ],
     "recentlyUsedIconsSize": 7,
     "rules": [],
@@ -50,5 +50,12 @@
   "Собес/Тестирование": "⁉",
   "Собес/Network": "LiEthernetPort",
   "Boosty": "LiMonitorCog",
-  "Собес/SystemDesign": "LiSortDesc"
+  "Собес/SystemDesign": "LiHousePlug",
+  "Собес/Алгоритмы": "LiCalculator",
+  "Собес/Мониторинг": "🕖",
+  "Собес/ООП": "❤️‍🔥",
+  "Собес/Kafka": "LiArrowLeftRight",
+  "Собес/Runtime": "LiArrowDown01",
+  "Собес/Other": "📭",
+  "Собес/Git": "LiGitlab"
 }
