@@ -8,73 +8,101 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45cc3be28c4a0719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Подготовка к собесам/Вопросы с собесов/Чем занимался в Balcia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Чем занимался в Balcia"
-            }
-          },
-          {
             "id": "db3d1dd7798675d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собес/БД/Распределенные tx/Event Stream.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Event Stream"
-            }
-          },
-          {
-            "id": "04f40f03f597e130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Подготовка к собесам/Типы данных.md",
+                "file": "Data Race(Гонка данных).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы данных"
+              "title": "Data Race(Гонка данных)"
             }
           },
           {
-            "id": "d383d8282c5f87b3",
+            "id": "65da42c918647d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собес/Опыт/Продажа себя.md",
+                "file": "Собес/БД/Распределенные tx/MVCC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Продажа себя"
+              "title": "MVCC"
+            }
+          },
+          {
+            "id": "1b83354e76a4f1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/БД/Индексы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Индексы"
+            }
+          },
+          {
+            "id": "a1d749576851137e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/Многопоточность/Семафор.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Семафор"
+            }
+          },
+          {
+            "id": "181e96bb8d3c4237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Собес/Многопоточность/sync.Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sync.Map"
+            }
+          },
+          {
+            "id": "b4e3dce00084a074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Горячие клавиши (HotKey).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Горячие клавиши (HotKey)"
+            }
+          },
+          {
+            "id": "c0062faa312fca0d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +146,7 @@
             }
           },
           {
-            "id": "2eb0e1b41564bc75",
+            "id": "961377b4294f520c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -131,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 243.5
   },
   "right": {
     "id": "b94a33bcf29ff20e",
@@ -203,16 +231,6 @@
             }
           },
           {
-            "id": "d994f520b8e01ba4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
-          },
-          {
             "id": "08a8bc95e69020b0",
             "type": "leaf",
             "state": {
@@ -231,9 +249,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "6c54056d0c564ad9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -256,35 +284,39 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "04f40f03f597e130",
+  "active": "a1d749576851137e",
   "lastOpenFiles": [
+    "Собес/Многопоточность/Воркерпул.md",
+    "Собес/Многопоточность/Семафор.md",
+    "Задание с персептроном.md",
+    "Уник/Зольникова.md",
+    "JWT.md",
+    "Собес/ExampleMicroservices/AuthService.md",
+    "MetaData/JWT и Refresh токены.md",
+    "Собес/ExampleMicroservices/Персональные данные.md",
+    "Собес/Многопоточность/Каналы.md",
+    "Собес/Многопоточность/Context.md",
+    "Собес/Многопоточность/Планировщик.md",
+    "Собес/Многопоточность/Горутины.md",
+    "Собес/Типы данных/Интерфейсы.md",
+    "Собес/Типы данных/Слайсы.md",
+    "Собес/Многопоточность/sync.Map.md",
+    "Собес/Типы данных/Мапы.md",
+    "Собес/ООП/ООП.md",
+    "Собес/ООП/Вопросы по ООП и SOLID.md",
+    "Собес/ООП/SOLID в GO.md",
+    "Собес/БД/Оптимизация запросов и использование EXPLAIN.md",
+    "Собес/БД/Агрегатные функции.md",
+    "Собес/Многопоточность/Select.md",
+    "Собес/Kafka/Коротко про Kafka.md",
+    "Excalidraw/Drawing 2025-04-14 14.01.06.excalidraw.md",
+    "Собес/БД/Индексы.md",
+    "Собес/БД/ACID.md",
+    "Собес/ExampleMicroservices",
+    "{B22415EE-9F75-4DDE-9518-07A2104CB436}.png",
+    "Собес/Debug",
     "Подготовка к собесам/Вопросы с собесов/Резюме.pdf",
     "Подготовка к собесам/Вопросы с собесов/Легенда.pdf",
-    "Подготовка к собесам/Вопросы с собесов/ТЕХСОБЕС.md",
-    "Подготовка к собесам/Вопросы с собесов/OZON 2.md",
-    "Подготовка к собесам/Вопросы с собесов/OZON 1.md",
-    "Подготовка к собесам/Вопросы с собесов/Ozon техскрининг.md",
-    "README.md",
-    "Собес/Runtime/Планировщик 1.md",
-    "Собес/Network/Аутентификация и Авторизация.md",
-    "Собес/Git/GitLab CI.md",
-    "Собес/Git/Базовые команды.md",
-    "Собес/Опыт/Процессы.md",
-    "Собес/Опыт/Продажа себя.md",
-    "Собес/Опыт/Опыт.md",
-    "Собес/Опыт/Легенда 2 работы.md",
-    "Собес/Опыт/Вопросы(1).md",
-    "Собес/Опыт/SCRUM.md",
-    "Собес/Опыт/Легенда 1 работы.md",
-    "Собес/Опыт/Вопросы(2).md",
-    "Вопросы по платежным системам.md",
-    "Собес/Опыт/Вопросы от HR.md",
-    "Библиотеки(work).md",
-    "Собес/Опыт/Методологии разработки и опыт.md",
-    "Собес/Алгоритмы/Алгоритмы вытеснения.md",
-    "Собес/Алгоритмы/LeetCode.md",
-    "Собес/Алгоритмы/BigO.md",
-    "Использовал Kafka для обработки входящих данных в асинхронном режиме.md",
     "{AED05CD8-7EE7-4767-A3CF-5313D203DADE}.png",
     "{D650456E-D60E-4B58-9E17-469197E361AE}.png",
     "{E7E621C9-21B8-4965-8B44-A5B39BEE5F41}.png",
@@ -296,13 +328,10 @@
     "Life",
     "{7C9A55FD-315C-4DA5-9868-6CAF23FF8988}.png",
     "{5CC650CB-693F-4868-9DA4-8CC1476B3A96}.png",
-    "{FB13A605-C76C-4B37-99A3-590C5309F203}.png",
     "Собес/БД/Распределенные tx",
     "Собес/Git",
     "Собес/SystemDesign/Требования",
     "Собес/Алгоритмы",
-    "Boosty",
-    "Собес/SystemDesign",
     "Без названия.canvas",
     "Подготовка к собесам/Без названия.canvas"
   ]

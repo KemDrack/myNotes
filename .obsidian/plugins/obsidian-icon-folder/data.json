@@ -6,13 +6,13 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiOctagonAlert",
+      "😓",
       "LiGitlab",
       "📭",
       "LiArrowDown01",
       "LiHousePlug",
-      "LiArrowLeftRight",
-      "❤️‍🔥",
-      "🕖"
+      "LiArrowLeftRight"
     ],
     "recentlyUsedIconsSize": 7,
     "rules": [],
@@ -47,7 +47,7 @@
   "Собес/Многопоточность": "LiMoreHorizontal",
   "Собес/Типы данных": "LiType",
   "Собес/Опыт": "👨‍💼",
-  "Собес/Тестирование": "⁉",
+  "Собес/Тестирование": "😓",
   "Собес/Network": "LiEthernetPort",
   "Boosty": "LiMonitorCog",
   "Собес/SystemDesign": "LiHousePlug",
@@ -57,5 +57,6 @@
   "Собес/Kafka": "LiArrowLeftRight",
   "Собес/Runtime": "LiArrowDown01",
   "Собес/Other": "📭",
-  "Собес/Git": "LiGitlab"
+  "Собес/Git": "LiGitlab",
+  "Собес/Debug": "LiOctagonAlert"
 }

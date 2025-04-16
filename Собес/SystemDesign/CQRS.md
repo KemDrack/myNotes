@@ -1,1 +1,3 @@
+Command Query Responsibility Segregation
+
 
